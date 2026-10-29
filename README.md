@@ -2,7 +2,7 @@
 
 BugHunt is a spot-the-bug game. You get a short snippet of Python, JavaScript or SQL with exactly one buggy line, and you have 45 seconds to click it. After each answer you see why the line is wrong and how to fix it. Scores go on a public leaderboard.
 
-**Live demo (free hosting, the first request can take up to a minute to wake up):** https://YOUR-BUGHUNT-LINK.onrender.com
+**Live demo (free hosting, the first request can take up to a minute to wake up):** https://bughunt-dxo6.onrender.com/
 
 ## Why I built this
 
@@ -133,4 +133,4 @@ bughunt/
 ## About me
 
 Krishnaraj M, fresher Full Stack Developer from Hosur, Tamil Nadu.
-[LinkedIn](https://linkedin.com/in/krishnaraj-m) | [GitHub](https://github.com/csekrishnarajm-code) | csekrishnarajm@gmail.com
+[LinkedIn](https://www.linkedin.com/in/krishnaraj-m-2a4585371/) | [GitHub](https://github.com/csekrishnarajm-code) | csekrishnarajm@gmail.com
